@@ -1,2 +1,5 @@
 # 3DPrinting
-config files for 3d printers and other useful stuff based on my needs and experience
+Config files for 3d printers and other useful stuff based on my needs and experience
+
+## Voron0 guide
+(https://docs.vorondesign.com/build/startup/startup.html?model=v0&step=1&interface=mainsail)[https://docs.vorondesign.com/build/startup/startup.html?model=v0&step=1&interface=mainsail]
